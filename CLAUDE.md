@@ -33,3 +33,9 @@ See /docs/component-spec.md for defined components. Use existing components befo
 
 ## Build Plan
 See /docs/build-plan.md for the current phase breakdown. We are building phase by phase — do not jump ahead.
+
+## References
+- Project context: See /docs/project-context.md — full project intake, design decisions, and open questions
+- Component library: See /docs/component-spec.md — use existing components before creating new ones
+- Build plan: See /docs/build-plan.md — build phase by phase, do not jump ahead
+- Project context skill: Use /project-context to generate a structured project context document from any brief, PRD, or notes
